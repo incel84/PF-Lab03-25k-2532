@@ -7,6 +7,9 @@
 - Python 🐍 | C++ | Web Dev (HTML, CSS, JS)
 - Data Structures & Algorithms
 - Jawad
+
+  **Programming**
+  *fsjfh*
 🚀 Goals:
 Aspiring full-stack developer, open-source contributor, and AI/ML enthusiast.
 
