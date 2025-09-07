@@ -1,5 +1,5 @@
 # PF-Lab03-25k-2532
-# 👋 Hello, I'm Muhammad
+# 👋 Hello, I'm Jawad
 
 ## 🎓 About Me
 I'm a passionate programming student currently exploring the world of software development. I enjoy solving problems, building small projects, and learning new technologies.
