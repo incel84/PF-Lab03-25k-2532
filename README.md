@@ -1,17 +1,15 @@
 # PF-Lab03-25k-2532
-# 👋 Hello, I'm Jawad
+# 👋 Hi, I'm Jawad
 
-## 🎓 About Me
-I'm a passionate programming student currently exploring the world of software development. I enjoy solving problems, building small projects, and learning new technologies.
+🎓 Programming student passionate about software development. I love solving problems, building projects, and exploring new tech.
 
-## 💻 Programming Interests
-- Python 🐍 – for its simplicity and power
-- C++ – for understanding low-level concepts
-- Web Development 🌐 – HTML, CSS, JavaScript
-- Data Structures & Algorithms – love the challenge!
+💻 Interests:
+- Python 🐍 | C++ | Web Dev (HTML, CSS, JS)
+- Data Structures & Algorithms
 
-## 🚀 Goals
-I aim to become a full-stack developer and contribute to open-source projects. I’m also interested in AI and machine learning.
+🚀 Goals:
+Aspiring full-stack developer, open-source contributor, and AI/ML enthusiast.
 
-Thanks for visiting my repository!
+Thanks for stopping by!
+
 
